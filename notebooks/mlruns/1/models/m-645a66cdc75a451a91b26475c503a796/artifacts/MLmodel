@@ -1,0 +1,20 @@
+artifact_path: /Users/sukesh/Desktop/F1-Race-Outcome-Forecasting/notebooks/mlruns/1/models/m-645a66cdc75a451a91b26475c503a796/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.13.2
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.9
+mlflow_version: 3.13.0
+model_id: m-645a66cdc75a451a91b26475c503a796
+model_size_bytes: 415496
+model_uuid: m-645a66cdc75a451a91b26475c503a796
+prompts: null
+run_id: d329ffbe9b9a4c34b09390ffcb24df29
+utc_time_created: '2026-06-01 16:26:15.082026'
